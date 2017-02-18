@@ -1,3 +1,17 @@
 #heading {
   text-align: center;
 }
+
+h1 {
+  color: #f8f8f8;
+}
+
+h2  {
+  color: #f8f8f8;
+}
+
+.crypt-info {
+  border: 2px solid #f8f8f8;
+  background-color: #f8f8f8;
+  border-radius: 6px;
+}
