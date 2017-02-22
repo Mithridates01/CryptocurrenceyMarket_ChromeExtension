@@ -8,6 +8,7 @@ h1 {
 
 h2  {
   color: #f8f8f8;
+  display: inline-block;
 }
 
 .crypt-info {
@@ -18,5 +19,15 @@ h2  {
 }
 
 .container {
-  width: 350px;
+  width: 380px;
+}
+
+#advertise {
+  height: 50px;
+  background-color: white;
+  margin-top: 30px
+}
+
+.heading {
+
 }
