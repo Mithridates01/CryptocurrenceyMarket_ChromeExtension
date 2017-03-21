@@ -1,10 +1,36 @@
-# CryptocurrenceyChromeExtension
+# Crypto Markets ChromeExtension
 
-##About
-A Chrome extension that that gives price updates on Zcash, Bitcoin, Monero, and Dash cryptocurrencies.
+## About
+This is a Google Chrome extension that makes it easier to view and compare market data and examine the investment fundamentals behind a selected sort of cryptocurrencies.
 
-##ScreenShots
+### Currently Supported Cryptocurrencies
+  - Bitcoin
+  - Dash
+  - Etherium
+  - Zcash
+  - Monero
+  - MaidSafe
+###Supported Fiat Currencies
+  - USD
+
+## ScreenShots
 [<img src="https://github.com/Mithridates01/CryptocurrenceyChromeExtension/blob/master/Screen%20Shot%202017-03-07%20at%2012.15.18%20PM.png">]
 
-Adding a Chrome extension to your local version of Chrome is a quick and process. First access the extensions page chrome://extensions and turn on "Developer mode" on the upper right section of the screen. Then on the left side of the header, click "Load unpacked extension..." and once prompted with the finder, select the root directory of the Chrome extension.
-Give it a refresh and you will see it in all its glory in the extensions bar.
+
+## To Install
+
+### Method One (Developers)
+
+  0. Add the Chrome extension to your local version of Chrome by...
+
+  1. access the extensions page chrome://extensions and turn on "Developer mode" on
+     the upper right section of the screen.
+
+  2.  Then on the left side of the header, click "Load unpacked extension..."
+
+  3. once prompted with the finder, select the root directory of the Chrome extension.
+
+  4. refresh the page
+
+### Method Two (Consumers)
+  Got to .......URL.........
